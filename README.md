@@ -21,6 +21,6 @@ This project analyzes Blinkit sales data to uncover demand trends, top-selling i
 ## 📜 Files & Folders  
 - `SQL_Queries/` → Contains MySQL scripts for data analysis.  
 - `PowerBI_Dashboard/` → Includes `.pbix` file for interactive reports.  
-- `Excel_Reports/` → Contains pivot tables and graphs.  
-- `insights_report.pdf` → Summary of key business findings.
-- 
+- `Excel_Reports/` → Contains pivot tables and lists.  
+
+  
